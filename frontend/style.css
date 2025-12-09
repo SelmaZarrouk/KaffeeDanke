@@ -1,0 +1,45 @@
+   body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fdf6f0;
+      color: #3e2723;
+    }
+    .navbar {
+      background-color: #6f4e37;
+    }
+    .navbar-brand, .nav-link {
+      color: #fff !important;
+    }
+    .hero {
+      background: url('https://images.unsplash.com/photo-1509042239860-f550ce710b93') center/cover no-repeat;
+      height: 70vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      text-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+    }
+    .menu-card {
+      transition: transform 0.2s;
+    }
+    .menu-card:hover {
+      transform: scale(1.05);
+    }
+    footer {
+      background-color: #6f4e37;
+      color: #fff;
+      padding: 20px 0;
+    }
+
+    .hero {
+  background: url('https://images.unsplash.com/photo-1509042239860-f550ce710b93') center/cover no-repeat;
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+}
+
+.filter-btn {
+  margin: 5px;
+}
+

@@ -1,0 +1,21 @@
+🎉To-dos
+
+⭐ Level 1 – Frontend Only
+
+Cart page (cart.html)
+
+Checkout form
+
+Animations + Modern UI
+
+⭐ Level 2 – Backend + Database
+
+Node.js + Express backend
+
+MongoDB for menu + orders
+
+Admin panel to add/edit menu items
+
+Authentication (user login)
+
+“Place Order” system.
