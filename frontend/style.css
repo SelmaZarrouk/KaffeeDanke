@@ -42,4 +42,21 @@
 .filter-btn {
   margin: 5px;
 }
+.table th, .table td {
+  vertical-align: middle;
+}
 
+#orderSummary li {
+  font-size: 1.1rem;
+}
+
+.backbtn-outline-secondary {
+  border-radius: 10px;
+  padding: 6px 14px;
+  font-size: 1rem;
+}
+
+.btn-outline-secondary:hover {
+  background-color: #6f4e37;
+  color: white;
+}
